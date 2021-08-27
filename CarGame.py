@@ -1,5 +1,5 @@
 command = ""
-while command != "quit":
+while True:
     command = input("> ").lower()
     if command == "start":
         print("Car has started")
@@ -11,3 +11,7 @@ while command != "quit":
           stop- 🥵to stop the car
           quit- ☠to quit
         """)
+    elif command == "quit":
+        break
+    else:
+        print("Sorry, I don't understand your command!!")
