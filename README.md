@@ -1,3 +1,4 @@
 ﻿# Python-for-Beginners
 Tutorial by Programming with Mosh
-https://www.youtube.com/watch?v=_uQrJ0TkZlc
+
+Youtube Video: https://www.youtube.com/watch?v=_uQrJ0TkZlc
